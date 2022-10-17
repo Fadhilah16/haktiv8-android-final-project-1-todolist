@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_create">Create</string>
+    <string name="title_list">List</string>
+    <string name="title_exit">Exit</string>
+    <string name="create_title">Create Task</string>
+    <string name="todo_field">To Do</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="btn_update">Update</string>
+    <string name="edit_title">Update</string>
+    <string name="delete_all">Delete All Tasks</string>
+    <string name="done">Done</string>
+</resources>
